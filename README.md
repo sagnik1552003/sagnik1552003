@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sagnikghosh0012@gmail.com**
 
-- ⚡ Fun fact **Participated in 2 hackathons and won both of them**
+- ⚡ Fun fact **Participated in 2 hackathons; won both of them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

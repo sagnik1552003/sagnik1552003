@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/Cxhbf20E_EoAAAAC/tenor.gif)]
+<img width=100% height=100% src = "https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif">
 <h1 align="center">Hi 👋, I'm Sagnik Ghosh</h1>
 <h3 align="center">A tech-nerd from India</h3>
 
